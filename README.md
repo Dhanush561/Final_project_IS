@@ -33,6 +33,8 @@ Implementation
 The project follows best practices for building RESTful APIs, such as adhering to HTTP verbs (GET, POST, PUT, DELETE) and using appropriate status codes for error handling. It also leverages Pydantic for data validation and SQLAlchemy for database interactions, making the code more robust and maintainable.
 
 --------------------------How to USE ---------------------------
+
+
 First of all Create an virual environment 
 conda create --name dosa-api python=3.9
 source activate dosa-api
