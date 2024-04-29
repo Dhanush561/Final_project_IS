@@ -14,7 +14,7 @@ A 'Customer' can have multiple 'Order' instances.
 An 'Order' can have multiple 'Item' instances (many-to-many relationship).
 An 'Order is associated with a single 'Customer'.
 
-The 'init_db.p' script sets up the database schema and enforces these relationships using foreign keys and an association table (`order_items`) for the many-to-many relationship between 'Order' and 'Item'.
+The 'init_db.p' script sets up the database schema and enforces these relationships using foreign keys and an association table ('order_items') for the many-to-many relationship between 'Order' and 'Item'.
 
 Implementation
 
