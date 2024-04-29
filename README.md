@@ -6,7 +6,7 @@ The project follows a typical design pattern for building RESTful APIs with Fast
 
 2. crud.py: This module contains the CRUD (Create, Read, Update, Delete) functions for interacting with the SQLite database. It provides a set of helper functions that encapsulate the database operations for customers, items, and orders.
 
-3. init_db.py This module is responsible for initializing the SQLite database and populating it with sample data from the `example_orders.json` file. It uses SQLAlchemy to define the database models and relationships.
+3. init_db.py This module is responsible for initializing the SQLite database and populating it with sample data from the 'example_orders.json' file. It uses SQLAlchemy to define the database models and relationships.
 
 The project follows a relational database design, with three main entities: 'Customer', 'Item', and 'Order'. The relationships between these entities are defined as follows:
 
