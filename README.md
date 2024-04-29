@@ -91,5 +91,5 @@ To access the API documentation and test the endpoints interactively, open your 
 To perform these operations, send HTTP requests to the corresponding endpoints with the appropriate method (GET, POST, PUT, DELETE) and data payload (for POST and PUT requests).
 
 6. Stop the Server :
-   When you're done using the API, you can stop the server by pressing `Ctrl+C` in the terminal where the server is running.
+   When you're done using the API, you can stop the server by pressing 'Ctrl+C' in the terminal where the server is running.
 
